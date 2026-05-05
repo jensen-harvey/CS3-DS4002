@@ -18,6 +18,7 @@ Work through the materials in this order:
 
 ## Repository Structure
 
+```
 CS3-DS4002/
 │
 ├── README.md                           This file
@@ -36,7 +37,7 @@ CS3-DS4002/
     ├── tech_layoffs_M2_EDA.pdf              Previous team's exploratory analysis
     ├── tech_layoffs_M3_Analysis.pdf         Previous team's modeling and forecasting
     └── REFERENCES.md                       IEEE-style references with annotations
-
+```
 ## Software Requirements
 
 This project was originally built in R. The 2nd year is welcome to work in R, Python, or any language they prefer, as long as the analysis is documented and reproducible.
