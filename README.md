@@ -18,12 +18,10 @@ Work through the materials in this order:
 
 ## Repository Structure
 
-```
 CS3-DS4002/
 │
 ├── README.md                           This file
 ├── LICENSE.md                          MIT License
-├── REFERENCES.md                       IEEE-style references with annotations
 │
 ├── CS3Hook_TechLayoffs.pdf             One-page hook document
 ├── CS3Rubric_TechLayoffs.pdf           Full rubric with deliverable specs
@@ -36,8 +34,9 @@ CS3-DS4002/
     ├── Case_Study_Big_5_Tech_Layoffs.pdf    Motivating blog post on tech layoffs
     ├── Tech_Layoffs_Slides.pdf              Previous team's presentation
     ├── tech_layoffs_M2_EDA.pdf              Previous team's exploratory analysis
-    └── tech_layoffs_M3_Analysis.pdf         Previous team's modeling and forecasting
-```
+    ├── tech_layoffs_M3_Analysis.pdf         Previous team's modeling and forecasting
+    └── REFERENCES.md                       IEEE-style references with annotations
+
 ## Software Requirements
 
 This project was originally built in R. The 2nd year is welcome to work in R, Python, or any language they prefer, as long as the analysis is documented and reproducible.
