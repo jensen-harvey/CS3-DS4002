@@ -22,7 +22,7 @@ Work through the materials in this order:
 CS3-DS4002/
 │
 ├── README.md                           This file
-├── LICENSE.md                          MIT License
+├── LICENSE                             MIT License
 │
 ├── CS3Hook_TechLayoffs.pdf             One-page hook document
 ├── CS3Rubric_TechLayoffs.pdf           Full rubric with deliverable specs
@@ -36,7 +36,7 @@ CS3-DS4002/
     ├── Tech_Layoffs_Slides.pdf              Previous team's presentation
     ├── tech_layoffs_M2_EDA.pdf              Previous team's exploratory analysis
     ├── tech_layoffs_M3_Analysis.pdf         Previous team's modeling and forecasting
-    └── REFERENCES.md                       IEEE-style references with annotations
+    └── REFERENCES.md                        IEEE-style references with annotations
 ```
 ## Software Requirements
 
